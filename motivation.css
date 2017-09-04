@@ -1,6 +1,6 @@
 body {
     background-color:#b2c2c2;
-    max-width: 900 px;
+    max-width: 900px;
     margin: 0 auto; 
     padding-top: 0;
     font-size: 25px;
@@ -133,7 +133,7 @@ footer a:hover, footer a:active {
         font-size: 20px;
     }
     .common{
-    margin: o auto;
+    margin: 0 auto;
     width: 90%; 
     text-align: center;
     }
