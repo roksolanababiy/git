@@ -19,6 +19,9 @@ header{
     margin: 0 auto;
     font-size: 25px;
 }
+#music{
+    width: 1000px;
+}
 select{
     float: right;
     width: 200px;
@@ -180,6 +183,9 @@ footer a:hover, footer a:active {
     img{
         width: 320px;
     }
+    #music{
+        width: 320px;
+    }
     select{
          display: none;
     }
@@ -227,4 +233,7 @@ footer a:hover, footer a:active {
     img{
         width: 700px;
     }
+    #music{
+        width: 700px;
+}
 }
